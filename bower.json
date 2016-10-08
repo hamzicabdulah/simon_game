@@ -1,0 +1,17 @@
+{
+  "name": "simon_game",
+  "homepage": "https://github.com/hamzicabdulah/simon_game",
+  "authors": [
+    "hamzicabdulah <abdulahhamzic@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
