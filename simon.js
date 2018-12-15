@@ -8,9 +8,9 @@ $(document).ready(function () {
     loop: true
   });
   function playSong () {
-    if (sound === 'on') {
+    /*if (sound === 'on') {
       simonSaysSong.play();
-    }
+    }*/
   }
 
   //Toggle audio on and off
